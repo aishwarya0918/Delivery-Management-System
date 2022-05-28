@@ -1,0 +1,4 @@
+#Inbuilt functions
+model=LinearRegression()
+model.fit(x,y)
+model=LinearRegression().fit(x,y
